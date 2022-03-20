@@ -1,5 +1,5 @@
 # STORES_SALES_PREDICTION
-Predicting sales of unique products which belongs to different stores with their weight and establishment year through connecting SQL Server Database and Power Bi Dashboard and deploy it on Azure.
+Predicting sales of unique products which belongs to different stores with their weight and establishment year through connecting SQL Server Database and Power Bi Dashboard and deploy it on Heroku.
 
 # Input values:
 ![](https://github.com/naveen12334/Stores_Sales_Prediction/blob/main/Input_Values.PNG)
@@ -52,7 +52,7 @@ As per selected trained model is dumped to pickled format for app development
 ![](https://github.com/naveen12334/Stores_Sales_Prediction/blob/main/Power%20Bi/Store_sale_powerbi_dashboard.PNG)
 
 # Deployed:
-Deployed on Azure -- https://flightfprediction.herokuapp.com/
+Deployed on Heroku -- https://flightfprediction.herokuapp.com/
 
 
 
