@@ -52,7 +52,7 @@ As per selected trained model is dumped to pickled format for app development
 ![](https://github.com/naveen12334/Stores_Sales_Prediction/blob/main/Power%20Bi/Store_sale_powerbi_dashboard.PNG)
 
 # Deployed:
-Deployed on Heroku -- https://flightfprediction.herokuapp.com/
+Deployed on Heroku -- https://store-sale.herokuapp.com/predict
 
 
 
