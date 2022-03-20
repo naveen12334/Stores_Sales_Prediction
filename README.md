@@ -43,7 +43,7 @@ As per selected trained model is dumped to pickled format for app development
 
 # Model Accuracy 
 # Training : 70%
-# Testing : 59
+# Testing  : 59%
 
 # Export data with predicted result back to SQL Server:
 ![](https://github.com/naveen12334/Stores_Sales_Prediction/blob/main/SQL/sql_pred.PNG)
